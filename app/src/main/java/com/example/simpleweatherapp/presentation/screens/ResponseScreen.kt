@@ -10,7 +10,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import com.example.simpleweatherapp.presentation.navigation.MainNavHost
 import com.example.simpleweatherapp.presentation.viewmodels.MainViewModel
-import com.example.simpleweatherapp.ui.theme.MainBackground
+import com.example.simpleweatherapp.presentation.ui.theme.MainBackground
 import com.example.simpleweatherapp.utils.Result
 
 @Composable

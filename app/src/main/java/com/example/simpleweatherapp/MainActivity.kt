@@ -10,7 +10,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import com.example.simpleweatherapp.presentation.screens.ResponseScreen
 import com.example.simpleweatherapp.presentation.viewmodels.MainViewModel
-import com.example.simpleweatherapp.ui.theme.SimpleWeatherAppTheme
+import com.example.simpleweatherapp.presentation.ui.theme.SimpleWeatherAppTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

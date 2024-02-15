@@ -33,10 +33,10 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.unit.Density
 import com.example.simpleweatherapp.presentation.viewmodels.MainViewModel
-import com.example.simpleweatherapp.ui.theme.MainBackground
-import com.example.simpleweatherapp.ui.theme.CurrentWeatherDetail
-import com.example.simpleweatherapp.ui.theme.ParameterWidgetBackground
-import com.example.simpleweatherapp.ui.theme.ParameterWidgetBorder
+import com.example.simpleweatherapp.presentation.ui.theme.MainBackground
+import com.example.simpleweatherapp.presentation.ui.theme.CurrentWeatherDetail
+import com.example.simpleweatherapp.presentation.ui.theme.ParameterWidgetBackground
+import com.example.simpleweatherapp.presentation.ui.theme.ParameterWidgetBorder
 import com.example.weatherapp.R
 
 

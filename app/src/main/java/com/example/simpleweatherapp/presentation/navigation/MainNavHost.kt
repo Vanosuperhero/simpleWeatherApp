@@ -13,7 +13,7 @@ import androidx.navigation.compose.rememberNavController
 import com.example.simpleweatherapp.presentation.screens.DetailScreen
 import com.example.simpleweatherapp.presentation.screens.MainScreen
 import com.example.simpleweatherapp.presentation.viewmodels.MainViewModel
-import com.example.simpleweatherapp.ui.theme.MainBackground
+import com.example.simpleweatherapp.presentation.ui.theme.MainBackground
 
 
 @Composable

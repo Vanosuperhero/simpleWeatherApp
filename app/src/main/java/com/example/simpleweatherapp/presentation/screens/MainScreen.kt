@@ -34,10 +34,10 @@ import androidx.navigation.NavHostController
 import com.example.simpleweatherapp.presentation.model.WidgetData
 import com.example.simpleweatherapp.presentation.navigation.NavEntry
 import com.example.simpleweatherapp.presentation.viewmodels.MainViewModel
-import com.example.simpleweatherapp.ui.theme.BluePercent
-import com.example.simpleweatherapp.ui.theme.MainBackground
-import com.example.simpleweatherapp.ui.theme.WidgetContainer
-import com.example.simpleweatherapp.ui.theme.WidgetsBackground
+import com.example.simpleweatherapp.presentation.ui.theme.BluePercent
+import com.example.simpleweatherapp.presentation.ui.theme.MainBackground
+import com.example.simpleweatherapp.presentation.ui.theme.WidgetContainer
+import com.example.simpleweatherapp.presentation.ui.theme.WidgetsBackground
 import com.example.weatherapp.R
 
 
